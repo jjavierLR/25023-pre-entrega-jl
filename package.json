@@ -1,0 +1,12 @@
+{
+  "name": "25023-pre-entrega-jl",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Joender Luque",
+  "license": "MIT",
+  "type": "module"
+}
